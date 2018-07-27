@@ -1,13 +1,27 @@
 <template>
-  <div class="hello">hello {{msg}}</div>
+  <div class="san">
+
+    <input value="{= msg =}" placeholder="please input">
+
+    <div>hello {{msg}} ！</div>
+
+  </div>
 </template>
 
 <script>
 export default {
   initData () {
     return {
-      msg: 'world'
+      msg: 'san'
     };
   }
 }
 </script>
+
+<style>
+  .san{
+    font-size: 20px;
+    margin: 10px auto;
+    color: cornflowerblue;
+  }
+</style>
