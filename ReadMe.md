@@ -1,4 +1,4 @@
-if you just want to see the html,open 'index.html' in './dist'
+if you just want to see the html,open 'index.html' in './dist' or [click here](https://vvvickie.github.io/san-webpackTest/dist/index.html)
 
 if you want to build it by yourself, download and do following scripts:
 
