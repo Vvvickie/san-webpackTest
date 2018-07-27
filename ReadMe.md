@@ -1,5 +1,13 @@
+if you just want to see the html,open 'index.html' in './dist'
+
+if you want to build it by yourself, download and do following scripts:
+
 - npm install
 
-- npx webpack
+- npm start // this will help you update your code changes synchronously
 
-open dist/index.html and you will see the element created in src/index.js
+  or
+
+  npm run build  // just build
+
+  Then open dist/index.html and you will see the elements created in src/index.js
